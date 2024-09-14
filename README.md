@@ -76,6 +76,10 @@ class CMCHttpClient(HttpClient):
             result = await resp.json()
             return result["data"][str(currency_id)]
 ```
+
+```bash
+Other files
+```
 </details>
 
 ### Cloning the repository
