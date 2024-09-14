@@ -1,7 +1,5 @@
 # Github_project_explorer
 
-# Github Project Explorer
-
 <details>
 <summary><b>Show input and output data</b></summary>
 
