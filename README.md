@@ -6,7 +6,7 @@
 ```plaintext
 Enter your GitHub username: BosovPN
 Enter your repository name: cryptocurrency_tracker
-Enter your GitHub token (optional): ""
+Enter your GitHub token (optional): 
 
 Result:
 Repository Structure:
