@@ -6,9 +6,14 @@
 ```plaintext
 Enter your GitHub username: BosovPN
 Enter your repository name: cryptocurrency_tracker
-Enter your GitHub token (optional): 
+Enter your GitHub token (optional):
+Do you want to save the output to a file or display in console? (file/console): file
+Enter the folder path to save the file (or press enter for current directory): 
 
 Result:
+Output saved to .\cryptocurrency_tracker_details.txt (For this input example)
+
+cryptocurrency_tracker_details.txt file info:
 Repository Structure:
 ├── README.md
 ├── backend/
